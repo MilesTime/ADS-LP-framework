@@ -79,16 +79,18 @@ Before running the framework, ensure the following:
 - **CPLEX Solver**: For high-performance optimization.
 - **Pulp Library**: For modeling LP problems.
 
-### **2. Installation**
+### **2. Installation and Running**
 ```bash
 # Clone the repository
 git clone https://github.com/MilesTime/ADS-LP-framework.git
 cd ADS-LP-framework
+```
 
 ### **3. Running the Code**
 ```bash
 python ADS-LP-framework.py
 ```
+
 ### **4. Example Workflow**
 - **Input**: Simulated multi-order data (in JSON/CSV).  
 - **Output**: Optimal or near-optimal solutions stored as `.csv`.
