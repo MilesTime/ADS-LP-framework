@@ -153,7 +153,7 @@ We welcome all contributions! To contribute:
 ## ✉️ **Contact**
 
 For questions, feedback, or support:
-- **Xibai Wang**: [ingenious.wxb@gmail.com(prefer)] [xwan0575@uni.sydney.edu.au](mailto:ingenious.wxb@gmail.com)
+- **Xibai Wang**: [ingenious.wxb@gmail.com](prefer) [xwan0575@uni.sydney.edu.au](mailto:ingenious.wxb@gmail.com)
 - **Yinsheng Song**: [yson6207@uni.sydney.edu.au](mailto:yson6207@uni.sydney.edu.au)
 
 
