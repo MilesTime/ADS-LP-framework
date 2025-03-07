@@ -155,7 +155,7 @@ We welcome all contributions! To contribute:
 ## ✉️ **Contact**
 
 For questions, feedback, or support:
-- **Xibai Wang**: [xwan0575@alumni.sydney.edu.au](mailto:xwan0575@alumni.sydney.edu.au)
+- **Xibai Wang**: [xwan0575@uni.sydney.edu.au](mailto:xwan0575@uni.sydney.edu.au)
 - **Yinsheng Song**: [yson6207@uni.sydney.edu.au](mailto:yson6207@uni.sydney.edu.au)
 
 
